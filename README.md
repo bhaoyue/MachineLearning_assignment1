@@ -1,2 +1,2 @@
-# MachineLearning_assignment1
+# MachineLearning_lab1
 logistic regression; neural network; SVM
